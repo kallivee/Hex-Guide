@@ -1,1 +1,1 @@
-# reborn-hex-guide
+https://github.com/kallivee/Hex-Guide/wiki
